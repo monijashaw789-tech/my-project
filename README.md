@@ -106,7 +106,7 @@ This is a Spring Boot based backend application that implements JWT (JSON Web To
 
 ## 📷 Screenshots
 
-AdminHome,AdminLogin,CustomerHome,CustomerLogin,CustomerSignUp,ProductCrud,ViewCart,WelcomePage
+AdminHome.png,AdminLogin.png,CustomerHome.png,CustomerLogin.png,CustomerSignUp.png,ProductCrud.png,ViewCart.png,WelcomePage.png
 
 ---
 
